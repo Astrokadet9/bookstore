@@ -1,0 +1,40 @@
+.kartina{
+    width: 200px;
+}
+header{
+    text-align: center; 
+    background-color:#FFEFD5 ;
+}
+
+header h1{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.nazvanie{
+    border: 3px solid orange ;
+    border-radius: 20px;
+    color: #006400
+}
+html{
+    background-color: #FFEFD5;
+    border-radius: 30px;
+}
+td{
+    
+    border: 3px dashed #0000CD;
+    font-size: 30px;
+    text-align: center;
+    background-color: #FFEFD5;
+
+
+}
+table{
+    width: 100%;
+}
+.izobrajenia{
+    width: 200px;
+    background-color: #FFEFD5;
+}
+footer{
+    background-color: #FFEFD5;
+}
